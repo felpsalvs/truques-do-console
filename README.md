@@ -4,7 +4,7 @@
 
 
 ### 🔖 Sobre
-Entre no link e observe os dados de uma api no Console: https://felpsalvs.github.io/truques-do-console/
+Entre no link e observe os dados de uma api no Console: https://truques-do-console.vercel.app/
 
 9/30
 
